@@ -2,7 +2,7 @@
 
 **Suya düşme. Köpek balıkları aç.** — *Don't fall in. The sharks are hungry.*
 
-Sisin içinde, köpek balıklarıyla dolu sulardan geçen 3D kaçış oyunu. Küçük platformların üstünden zıplayarak üç bölümü geç ve en sondaki çıkış kapısına ulaş: **Kara Orman**, **Batık Resif** ve **Buz Denizi**. Suya düşersen 6 saniyen var, köpek balıkları seni fark etmeden çık! Taş fırlatıp köpek balıklarını oyala, bölümler arasındaki geçitlerde ilerlemeni kaydet. Tek başına ya da aynı Wi-Fi'daki arkadaşlarınla (en fazla 6 kişi) oyna; yakalanan arkadaşını kurtarabilirsin.
+Sisin içinde, köpek balıklarıyla dolu sulardan geçen 3D kaçış oyunu. Küçük platformların üstünden zıplayarak üç bölümü geç ve en sondaki çıkış kapısına ulaş: **Kara Orman**, **Batık Resif** ve **Buz Denizi**. Suya düşersen 6 saniyen var, köpek balıkları seni fark etmeden çık! Yolda taş topla ve fırlatıp köpek balıklarını oyala, bölümler arasındaki geçitlerde ilerlemeni kaydet. Buzlu bölümde çatlak buzlara dikkat et! Tek başına ya da aynı Wi-Fi'daki arkadaşlarınla (en fazla 6 kişi) oyna; yakalanan arkadaşını kurtarabilirsin.
 
 ## ⬇️ İndir / Download
 
@@ -33,7 +33,7 @@ Linkler her zaman **en yeni sürümü** indirir. Bütün sürümler: [Releases](
 - **Telefon:** sol yarıda joystick, sağ altta zıplama, alttaki taş düğmesi = fırlat (düşmüş arkadaşının yanında KURTAR, basılı tut), sağ tarafı kaydır = kamera
 - **Bilgisayar:** WASD / oklar = yürü, Space = zıpla, F = taş at / kurtar (basılı tut), fareyle sürükle ya da Q/E = kamera
 
-Ayarlar'dan grafik kalitesini, sis mesafesini ve dokunmatik düğme boyutlarını değiştirebilirsin.
+Ayarlar'dan grafik kalitesini, sis mesafesini, dokunmatik düğme boyutlarını ve dili (Türkçe / English / B/H/S) değiştirebilirsin.
 
 ## 👥 Çok oyunculu
 
