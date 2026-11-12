@@ -2,7 +2,7 @@
 
 **Suya düşme. Köpek balıkları aç.** — *Don't fall in. The sharks are hungry.*
 
-Sisin içinde, köpek balıklarıyla dolu sulardan geçen 3D kaçış oyunu. Küçük platformların üstünden zıplayarak üç bölümü geç ve en sondaki çıkış kapısına ulaş: **Kara Orman**, **Batık Resif** ve **Buz Denizi**. Suya düşersen 6 saniyen var, köpek balıkları seni fark etmeden çık! Yolda taş topla ve fırlatıp köpek balıklarını oyala, bölümler arasındaki geçitlerde ilerlemeni kaydet. Buzlu bölümde çatlak buzlara dikkat et! Tek başına ya da aynı Wi-Fi'daki arkadaşlarınla (en fazla 6 kişi) oyna; yakalanan arkadaşını kurtarabilirsin.
+Sisin içinde, köpek balıklarıyla dolu sulardan geçen 3D kaçış oyunu. Küçük platformların üstünden zıplayarak altı bölümü geç ve en sondaki çıkış kapısına ulaş: **Kara Orman**, **Batık Resif**, **Buz Denizi**, **Gemi Mezarlığı**, **Yosun Ormanı** ve **Hafıza Uçurumu**. Suya düşersen 6 saniyen var, köpek balıkları seni fark etmeden çık! Yolda taş topla ve fırlatıp köpek balıklarını oyala, bölümler arasındaki geçitlerde ilerlemeni kaydet. Buzlu bölümde çatlak buzlara dikkat et! Tek başına ya da aynı Wi-Fi'daki arkadaşlarınla (en fazla 6 kişi) oyna; yakalanan arkadaşını kurtarabilirsin.
 
 ## ⬇️ İndir / Download
 
@@ -37,7 +37,9 @@ Ayarlar'dan grafik kalitesini, sis mesafesini, dokunmatik düğme boyutlarını 
 
 ## 👥 Çok oyunculu
 
-Aynı Wi-Fi'daki biri **ÇOK OYUNCULU → ODA KUR** der, diğerleri ekranda yazan IP adresini girip **KATIL**'a basar.
+**İnternetten:** biri oda kurar ve oda kodunu paylaşır, diğerleri kodu girip katılır (herkes aynı sürümü kullanmalı).
+
+**Aynı Wi-Fi'da:** biri **ODA KUR** der, diğerleri ekranda yazan IP adresini girip **KATIL**'a basar.
 
 ---
 
